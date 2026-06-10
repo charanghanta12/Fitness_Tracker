@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/charanghanta12/Fitness_Tracker.git'
-    targetRevision: master
+    targetRevision: production
     path: Fitness_Chart
     helm:
       valueFiles:
